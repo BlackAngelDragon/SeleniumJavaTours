@@ -1,0 +1,7 @@
+pages\pageLogin.class
+pages\pageLogon.class
+Test\test.class
+helpers\WebDriverManager.class
+helpers\Helpers.class
+pages\pageReservation.class
+helpers\ScreenShooter.class
